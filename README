@@ -1,0 +1,28 @@
+Glossário de https://github.com/simplecloudservlet
+
+WEBAULA1EX1: HTML: Modelo básico de documentos HTML5.
+WEBAULA1EX2: HTML: Marcador <figure><img> com referência a outra página.
+WEBAULA1EX3: HTML: Listas numeradas e não-numeradas, e tabelas.
+WEBAULA1EX4: HTML: <style> dentro do HTML. <div> formatado.
+WEBAULA1EX5: HTML: <form> com <input>. <div> formatado.
+WEBAULA1EX6: HTML: <form> com <input type="radio">, <input type="checkbox">, <textarea>, <select>
+WEBAULA1EX7: CSS: Formatação em arquivo separado do HTML. 
+WEBAULA1EX8: CSS: Formatação inline, especifica e com classes.
+WEBAULA1EX9: CSS: Tabela formatada.
+WEBAULA1EX10: CSS: Expressões regulares para formatar grupos de componentes HTML.
+WEBAULA1EX11: Bootstrap: introdução e <div> com colunas.
+WEBAULA1EX12: Bootstrap: <div> com formatação de texto em múltiplas colunas.
+WEBAULA1EX13: Bootstrap: <div> com alinhamento de texto em múltiplas colunas.
+WEBAULA1EX14: Bootstrap: <div> com alinhamento de texto em múltiplas colunas.
+WEBAULA1EX15: Bootstrap: botões formatados.
+WEBAULA1EX16: Bootstrap: <form> com <input>, botões com submit.
+WEBAULA1EX17: JavaScript: botão com interação.
+WEBAULA1EX18: JavaScript: <form> com <input> para somar dois números.
+WEBAULA1EX19: JavaScript: Números decimais.
+WEBAULA1EX20: JavaScript: Namespaces.
+WEBAULA1EX21: JavaScript: if-else para alterar dinamicamente o componente HTML.
+WEBAULA1EX22: JavaScript: <select> com if-else.
+WEBAULA1EX23: JavaScript: <select> com if-else.
+WEBAULA1EX24: JavaScript: for, while, do-while.
+WEBAULA1EX25: JavaScript: arrays (vetores).
+WEBAULA1EX26: JavaScript: Programação Orientada a Objetos.
