@@ -28,4 +28,6 @@ WEBAULA1EX25: JavaScript: arrays (vetores).
 WEBAULA1EX26: JavaScript: Programação Orientada a Objetos.
 WEBAULA1EX27: JavaScript: Programação Orientada a Objetos: heranca.
 
-WEBAULA1EX28: jQuery: exibir mensagem, alterar <input>, <label>, <table>
+WEBAULA1EX28: jQuery: exibir mensagem, alterar <input>, <label>, <table>.
+WEBAULA1EX29: jQuery: selecionar elemento HTML de acordo com o seletor CSS que ele possui.  
+WEBAULA1EX30: jQuery: eventos. 
