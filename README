@@ -6,16 +6,19 @@ WEBAULA1EX3: HTML: Listas numeradas e não-numeradas, e tabelas.
 WEBAULA1EX4: HTML: <style> dentro do HTML. <div> formatado.
 WEBAULA1EX5: HTML: <form> com <input>. <div> formatado.
 WEBAULA1EX6: HTML: <form> com <input type="radio">, <input type="checkbox">, <textarea>, <select>
+
 WEBAULA1EX7: CSS: Formatação em arquivo separado do HTML. 
 WEBAULA1EX8: CSS: Formatação inline, especifica e com classes.
 WEBAULA1EX9: CSS: Tabela formatada.
 WEBAULA1EX10: CSS: Expressões regulares para formatar grupos de componentes HTML.
+
 WEBAULA1EX11: Bootstrap: introdução e <div> com colunas.
 WEBAULA1EX12: Bootstrap: <div> com formatação de texto em múltiplas colunas.
 WEBAULA1EX13: Bootstrap: <div> com alinhamento de texto em múltiplas colunas.
 WEBAULA1EX14: Bootstrap: <div> com alinhamento de texto em múltiplas colunas.
 WEBAULA1EX15: Bootstrap: botões formatados.
 WEBAULA1EX16: Bootstrap: <form> com <input>, botões com submit.
+
 WEBAULA1EX17: JavaScript: botão com interação.
 WEBAULA1EX18: JavaScript: <form> com <input> para somar dois números.
 WEBAULA1EX19: JavaScript: Números decimais.
@@ -32,3 +35,4 @@ WEBAULA1EX28: jQuery: exibir mensagem, alterar <input>, <label>, <table>.
 WEBAULA1EX29: jQuery: selecionar elemento HTML de acordo com o seletor CSS que ele possui.  
 WEBAULA1EX30: jQuery: Eventos de teclado: contar letras.
 WEBAULA1EX31: jQuery: Eventos de mouse. 
+WEBAULA1EX32: jQuery: Eventos de formulario. 
