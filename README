@@ -36,4 +36,5 @@ WEBAULA1EX29: jQuery: selecionar elemento HTML de acordo com o seletor CSS que e
 WEBAULA1EX30: jQuery: Eventos de teclado: contar letras.
 WEBAULA1EX31: jQuery: Eventos de mouse. 
 WEBAULA1EX32: jQuery: Eventos de formulario: mudar <input> de campo selecionado.
-WEBAULA1EX32: jQuery: Mudar visibilidade (exibir/ocultar) elementos.
+WEBAULA1EX33: jQuery: Mudar visibilidade (exibir/ocultar) elementos.
+WEBAULA1EX34: jQuery: Navegando na estrutura DOM, ordenar listas, modificar elemento específico. 
