@@ -27,7 +27,7 @@ WEBAULA1EX21: JavaScript: if-else para alterar dinamicamente o componente HTML.
 WEBAULA1EX22: JavaScript: <select> com if-else.
 WEBAULA1EX23: JavaScript: <select> com if-else.
 WEBAULA1EX24: JavaScript: for, while, do-while.
-WEBAULA1EX25: JavaScript: arrays (vetores).
+WEBAULA1EX25: JavaScript: Arrays (vetores).
 WEBAULA1EX26: JavaScript: Programação Orientada a Objetos.
 WEBAULA1EX27: JavaScript: Programação Orientada a Objetos: heranca.
 
@@ -40,3 +40,7 @@ WEBAULA1EX33: jQuery: Mudar visibilidade (exibir/ocultar) elementos.
 WEBAULA1EX34: jQuery: Navegando na estrutura DOM, ordenar listas, modificar elemento específico. 
 
 WEBAULA1EX35: PHP: Página inicial. <input> com HTTP GET.
+WEBAULA1EX36: PHP: Funções e variáveis globais.
+WEBAULA1EX37: PHP: Arrays (vetores). Operações com vetores: insercao, exclusao, juncao, interseccao, intervalo.
+WEBAULA1EX38: PHP: Arrays (vetores). Comparação de vetores. Ordenacao de elementos.
+WEBAULA1EX39: PHP: Estruturas de decisao e de repeticao: if-else, switch-case, for, while, do-while.
