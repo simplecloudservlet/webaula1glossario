@@ -44,3 +44,7 @@ WEBAULA1EX36: PHP: Funções e variáveis globais.
 WEBAULA1EX37: PHP: Arrays (vetores). Operações com vetores: insercao, exclusao, juncao, interseccao, intervalo.
 WEBAULA1EX38: PHP: Arrays (vetores). Comparação de vetores. Ordenacao de elementos.
 WEBAULA1EX39: PHP: Estruturas de decisao e de repeticao: if-else, switch-case, for, while, do-while.
+WEBAULA1EX40: PHP: Formularios.
+WEBAULA1EX41: PHP: Programação Orientada a Objetos. Formulário com objetos.
+WEBAULA1EX42: PHP: Programação Orientada a Objetos. Formulario com Heranca e polimorfismo.
+WEBAULA1EX43: PHP: Data e hora.
