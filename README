@@ -53,4 +53,5 @@ WEBAULA1EX44: PHP: Juncao organizada de arquivos.
 WEBAULA1EX45: PHP: Banco de dados MySQL.
 WEBAULA1EX46: PHP: Banco de dados SQLite.
 WEBAULA1EX47: PHP: Banco de dados. Consultas organizadas em funcoes.
-WEBAULA1EX48: AJAX+PHP+JavaScript
+WEBAULA1EX48: Projeto: Leitura de plain-text de arquivo de cidades e arquivo de estados. Gravacao em MySQL e exibicao com PHP.
+WEBAULA1EX49: Projeto: Leitura de arquivo XML de cidades. Gravacao em MySQL e exibicao com PHP.
