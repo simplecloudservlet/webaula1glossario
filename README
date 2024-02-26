@@ -50,5 +50,6 @@ WEBAULA1EX42: PHP: Programação Orientada a Objetos. Formulario com Heranca e p
 WEBAULA1EX43: PHP: Data e hora.
 WEBAULA1EX44: PHP: Juncao organizada de arquivos.
 
-WEBAULA1EX45: PHP: Banco de dados.
-
+WEBAULA1EX45: PHP: Banco de dados MySQL.
+WEBAULA1EX46: PHP: Banco de dados SQLite.
+WEBAULA1EX47: PHP: Banco de dados com funcoes.
