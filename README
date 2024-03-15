@@ -56,6 +56,7 @@ WEBAULA1EX47: PHP: Banco de dados. Consultas organizadas em funcoes.
 WEBAULA1EX48: Projeto: Leitura de plain-text de arquivo de cidades e arquivo de estados. Gravacao em MySQL e exibicao com PHP.
 WEBAULA1EX49: Projeto: Leitura de arquivo XML de cidades. Gravacao em MySQL e exibicao com PHP.
 WEBAULA1EX50: Projeto: Leitura de arquivo JSON + Ajax. Gravacao em MySQL e exibicao com PHP.
-WEBAULA1EX51: TODO?????Projeto: Leitura de arquivo JSON + Ajax. Gravacao em SQLite e exibicao com PHP.
-
+WEBAULA1EX51: (TODO: Projeto): Leitura de arquivo JSON + Ajax. Gravacao em SQLite e exibicao com PHP.
 WEBAULA1EX52: PHP+MySQL: Rede de Pesquisa com grafo.
+
+WEBAULA1EX53: Laravel: /var/www/html/WEBAULA1EX53: Laravel com acesso ao Banco de Dados MySQL
